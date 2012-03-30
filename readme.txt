@@ -8,3 +8,5 @@ with google appengine.
 this is it :) it lives at http://cm-nightlies.appspot.com
 
 feedback is welcome.
+
+edited: 0309 31032012
